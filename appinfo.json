@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ryan.niswonger@gmail.com",
+    "longName": "Balance",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Balance",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "22d86354-758f-4116-a9b2-ab3a6008743f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
